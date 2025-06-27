@@ -1,0 +1,5 @@
+{
+    "keymap": [
+        ["KC.UP", "KC.DOWN", "KC.LEFT", "KC.RIGHT"]
+    ]
+}
