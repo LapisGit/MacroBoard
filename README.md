@@ -26,6 +26,11 @@ My PCB was made in KiCad 9, and I decided to add some personal *flair* to the PC
 
 ![someparts](https://github.com/user-attachments/assets/0b67986d-20c0-4ac6-bd12-6c6c101d0d9b)
 
+## Firmware:
+I haven't worked on the firmware, pretty much at all, just because I would have zero way to test, my current changes are loading the keymapping via a json file, so no laggy IDE's have to be open everytime. I'm hoping to soon make a GUI for changing the json easier.
+
+Once I have my MacroBoard assembled physically, I will continue making the firmware, but for now, it'll stay in it's current state :)
+
 ## BOM:
 Seeed XIAO RP2040
 MX-Style switches (6x)
