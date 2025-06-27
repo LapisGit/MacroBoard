@@ -26,3 +26,10 @@ My PCB was made in KiCad 9, and I decided to add some personal *flair* to the PC
 
 ![someparts](https://github.com/user-attachments/assets/0b67986d-20c0-4ac6-bd12-6c6c101d0d9b)
 
+## BOM:
+Seeed XIAO RP2040
+MX-Style switches (6x)
+SK6812 MINI-E LEDs (2x)
+Blank DSA keycaps (6x)
+M3x16mm screws
+M3x5mx4mm heatset inserts
