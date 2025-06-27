@@ -486,10 +486,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/LiamM/Documents/HackPad/prodo/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "hackpad.step",
       "svg": "",
       "vrml": ""
     },
