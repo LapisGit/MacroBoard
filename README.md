@@ -32,9 +32,9 @@ I haven't worked on the firmware, pretty much at all, just because I would have 
 Once I have my MacroBoard assembled physically, I will continue making the firmware, but for now, it'll stay in it's current state :)
 
 ## BOM:
-Seeed XIAO RP2040
-MX-Style switches (6x)
-SK6812 MINI-E LEDs (2x)
-Blank DSA keycaps (6x)
-M3x16mm screws
-M3x5mx4mm heatset inserts
+- Seeed XIAO RP2040
+- MX-Style switches (6x)
+- SK6812 MINI-E LEDs (2x)
+- Blank DSA keycaps (6x)
+- M3x16mm screws
+- M3x5mx4mm heatset inserts
