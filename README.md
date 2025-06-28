@@ -17,12 +17,10 @@ My case was made using **AutoDesk Fusion Personal.** I started out with making t
 
 My PCB was made in KiCad 9, and I decided to add some personal *flair* to the PCB, aswell as the Hack Club logo for *obvious* reasons.
 
+![Screenshot 2025-06-28 111006](https://github.com/user-attachments/assets/1d2beadc-fedc-46ee-aad0-ba6e5554483d)
 
-![pcb](https://github.com/user-attachments/assets/d8d5883a-2fa1-43a5-9719-28f1d260dbf4)
 
-
-![schematic](https://github.com/user-attachments/assets/94e80910-016a-4c44-97fa-2f5c5305c093)
-
+![Screenshot 2025-06-28 111019](https://github.com/user-attachments/assets/f3f360bd-ca75-4593-819d-224a75051f1d)
 
 ***Here's the model with some of the parts placed in too!***
 
